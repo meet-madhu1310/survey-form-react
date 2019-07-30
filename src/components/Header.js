@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Header = () => (
-    <div className="header-container">
+    <div className="headerContainer">
         <h1>Survery Form</h1>
     </div>
 )

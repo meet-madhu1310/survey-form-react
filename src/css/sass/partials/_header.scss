@@ -1,0 +1,27 @@
+.headerContainer {
+    margin: 0;
+    padding: 0;
+
+    background-color: $secondary_color;
+    text-align: center;
+    padding: 25px 0;
+
+    @media screen and (min-width: 600px){
+        padding: 50px 0;
+    }
+
+    h1{
+        margin: 0;
+        padding: 0;
+        
+        font-size: 1.5rem;
+
+        @media screen and (min-width: 600px){
+            font-size: 2.5rem;
+        }
+    }
+}
+
+.headerContainer h1{
+    color: $primary_color;
+}

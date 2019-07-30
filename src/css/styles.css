@@ -1,0 +1,31 @@
+.headerContainer {
+  margin: 0;
+  padding: 0;
+  background-color: #D97904;
+  text-align: center;
+  padding: 25px 0; }
+  @media screen and (min-width: 600px) {
+    .headerContainer {
+      padding: 50px 0; } }
+  .headerContainer h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem; }
+    @media screen and (min-width: 600px) {
+      .headerContainer h1 {
+        font-size: 2.5rem; } }
+
+.headerContainer h1 {
+  color: #262523; }
+
+.formContainer {
+  max-width: 900px;
+  margin: auto;
+  padding: 0 15px;
+  background-color: #262523;
+  color: #D97904; }
+  @media screen and (min-width: 600px) {
+    .formContainer {
+      padding: 0 50px; } }
+
+/*# sourceMappingURL=styles.css.map */
